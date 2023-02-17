@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>123419084198-hf56rs9bk0e1scb78i5nq4h34g366606.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.123419084198-hf56rs9bk0e1scb78i5nq4h34g366606</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtYToQ-tuCDCvpdhorcPN4twk0A2VRbSU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>123419084198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cloudus.logomaker</string>
+	<key>PROJECT_ID</key>
+	<string>fir-damo2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-damo2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:123419084198:ios:54a08dbdff7f754eb27b67</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-damo2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
